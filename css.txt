@@ -20,7 +20,7 @@ p {
 <body>
 
 <h1>Welcome</h1>
-<p>This is a simple CSS example.</p>
+<p>This is a simple CSS example.</p>   
 
 </body>
 </html>
