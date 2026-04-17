@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<h1>Welcome</h1>
+<p>This is a simple CSS example.</p>
+
+</body>
+</html>
